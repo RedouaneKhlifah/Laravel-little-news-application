@@ -47,5 +47,5 @@ To use this API, make requests to the appropriate endpoints using tools like Pos
 
 import Postman collection : 
 
-[news-test-technique.postman_collection.json](https://github.com/RedouaneKhlifah/Laravel-little-news-application/files/15061544/news-test-technique.postman_collection.json)
+[news-test-technique.postman_collection.json]([https://github.com/RedouaneKhlifah/Laravel-little-news-application/files/15061544/news-test-technique.postman_collection.json](https://www.postman.com/navigation-saganist-31505510/workspace/redouane-khlifah/collection/34093186-81d0824f-9b87-44be-a825-e2668921779e?action=share&creator=34093186))
 
