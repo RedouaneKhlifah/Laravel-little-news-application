@@ -1,4 +1,4 @@
-
+# Laravel News Application API
 
 This Laravel application provides RESTful API endpoints for managing news items and categories.
 
@@ -47,7 +47,7 @@ To use this API, make requests to the appropriate endpoints using tools like Pos
 
 You can import the Postman collection from this link: 
 
-[news-test-technique.postman_collection.json](https://github.com/RedouaneKhlifah/Laravel-little-news-application/files/15068846/news-test-technique.postman_collection.json)# Laravel News Application API
+[news-test-technique.postman_collection.json](https://github.com/RedouaneKhlifah/Laravel-little-news-application/files/15068846/news-test-technique.postman_collection.json)
 
 
 
